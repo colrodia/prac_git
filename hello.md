@@ -1,10 +1,12 @@
 자기소개
 -------------------
-이름 :
+이름 : 성낙천
 
-팀 :
+팀 : 백수
 
-Github ID :
+Github ID : jaiyui
 
-E-mail :
+E-mail : atomix@wemakeprice.com
+
+집에 가자~~~
 
